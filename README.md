@@ -17,7 +17,7 @@ These were the resources that I used to create the Microsoft tutorial extension 
 - **Extension sideloading**:
 <br>https://docs.microsoft.com/en-us/microsoft-edge/extensions-chromium/getting-started/extension-sideloading
 
-- **Extension Development documentatie**:
+- **Extension Development documentation**:
 <br>https://developer.chrome.com/docs/extensions/mv3/
 
 - **Microsoft extension tutorial parts 1 & 2**:
