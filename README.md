@@ -3,7 +3,7 @@ This is a tutorial project that is from Microsoft and the goal of this project w
 
 ### My experience
 The tutorial I used from Microsoft uses Manifest V2 to create this extension. However, during the tutorial I ran into a problem. The problem was that the Manifest 
-version that they used is depricated and soon after I found out that Google has updated their Manifest version to V3. From there, I read the documentation
+version that they used is depricated, and soon after I found out that Google has updated their Manifest version to V3. From there, I read the documentation
 of Microsoft & Google to find out on how to migrate the Manifest V2 to V3 and continuously testing the extension until it worked correctly.
 
 ### Resources
